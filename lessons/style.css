@@ -1,1 +1,34 @@
-* {background-color: blue;}
+#Macedonia {
+
+    background-color: aqua;
+}
+
+#Germany {
+
+    background-color: blueviolet;
+
+}
+
+#Turkey {
+    background-color: chartreuse;
+
+}
+
+#Poland {
+
+    background-color: springgreen;
+
+}
+
+#America {
+
+    background-color: violet;
+
+}
+
+
+.countries {
+
+    color: red;
+    
+}
